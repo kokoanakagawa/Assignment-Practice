@@ -13,6 +13,8 @@ editor: visual
 * CrossRef
 * LAC
 * CPIDAC
+* Statistics Canada: national statistical office, collection data, analyzing, and publishing statisitcal data about Canadian society. For me, Data from Canadian Health Survey on Children and Youth looks interesting
+(source: https://www.statcan.gc.ca/en/start)
 
 ## Persistent Identifiers
 
@@ -33,3 +35,4 @@ editor: visual
 * SAFES Data
 * FAIR Principles
 * CARE Principles
+* Microdata: individual data/response from survey before statistical analysis. each of them represents individuals that answered survey (source:https://guides.library.ubc.ca/datastatistics/microdata )
